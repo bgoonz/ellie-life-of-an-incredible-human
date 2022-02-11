@@ -69,7 +69,7 @@
     },
     "link": {
         "weight": "medium",
-        "case": "uppercase",
+        "case": "capitalize",
         "letterSpacing": "normal"
     }
 }
