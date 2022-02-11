@@ -240,7 +240,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Wanna Share A Story About Ellie??
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -275,12 +275,7 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Submit\U0001F415"
       styles:
         submitLabel:
           textAlign: center
