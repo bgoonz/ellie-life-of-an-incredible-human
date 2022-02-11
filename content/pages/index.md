@@ -48,6 +48,7 @@ sections:
         url: /memories
         label: C-ALL
         altText: see all
+        elementId: see all
     showDate: false
     showDescription: true
     showFeaturedImage: true
