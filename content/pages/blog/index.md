@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Blog
+title: Eulogy
 colors: colors-a
 backgroundImage:
   url: /images/wallpaper.gif
