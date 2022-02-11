@@ -46,7 +46,7 @@ sections:
     actions:
       - label: See All
         altText: view memories
-        url: /
+        url: /memories
         showIcon: false
         icon: arrowRight
         iconPosition: right
