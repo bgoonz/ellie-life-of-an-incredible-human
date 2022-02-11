@@ -15,8 +15,12 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "Memories",
+                "url": "/memories",
+                "altText": "memories",
+                "iconPosition": "left",
+                "icon": "playCircle",
+                "elementId": "mem"
             },
             {
                 "type": "Link",
