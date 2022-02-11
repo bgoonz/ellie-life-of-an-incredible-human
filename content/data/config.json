@@ -33,7 +33,7 @@
             },
             {
                 "label": "Facebook",
-                "altText": "",
+                "altText": "facebook icon",
                 "url": "https://www.facebook.com/Ellie.Hannah.G",
                 "icon": "facebook",
                 "elementId": "fb"
