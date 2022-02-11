@@ -71,7 +71,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderWidth: 3
+        borderWidth: 4
         borderStyle: solid
       title:
         textAlign: left
