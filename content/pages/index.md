@@ -44,6 +44,15 @@ sections:
     type: FeaturedProjectsSection
     elementId: memorys
     actions:
+      - label: See All
+        altText: view memories
+        url: /memories
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: see all
+        type: Button
       - type: Link
         url: /memories
         label: See All
@@ -64,7 +73,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-0
           - mb-0
@@ -76,9 +85,10 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderWidth: 4
-        borderStyle: solid
+        borderWidth: 5
+        borderStyle: double
         borderColor: border-dark
+        borderRadius: medium
       title:
         textAlign: left
       subtitle:
