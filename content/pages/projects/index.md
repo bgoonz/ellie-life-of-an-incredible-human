@@ -1,6 +1,6 @@
 ---
 layout: ProjectFeedLayout
-title: Projects
+title: Memories
 colors: colors-a
 backgroundImage:
   url: /images/bg1.jpg
