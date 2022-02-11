@@ -80,7 +80,7 @@ sections:
     subtitle: 'Memories:'
   - type: FeaturedPostsSection
     elementId: ''
-    colors: colors-b
+    colors: colors-f
     variant: variant-d
     subtitle: Eulogy(s)
     showFeaturedImage: false
