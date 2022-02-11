@@ -65,7 +65,7 @@ sections:
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-d
+    variant: variant-a
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
