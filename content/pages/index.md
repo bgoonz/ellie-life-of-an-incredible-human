@@ -87,7 +87,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Memories:'
     title: Memories
   - colors: colors-f
     elementId: ''
