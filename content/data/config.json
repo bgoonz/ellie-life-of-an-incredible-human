@@ -4,7 +4,7 @@
     "header": {
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Home",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -15,8 +15,12 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "Memories",
+                "url": "/memories",
+                "altText": "memories",
+                "iconPosition": "left",
+                "icon": "playCircle",
+                "elementId": "mem"
             },
             {
                 "type": "Link",
@@ -28,9 +32,10 @@
             {
                 "type": "Social",
                 "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/stackbit-themes",
-                "icon": "github"
+                "url": "https://www.linkedin.com/in/elizabeth-g-5921b9168/",
+                "icon": "linkedin",
+                "label": "LinkedIn",
+                "elementId": "linkedIn"
             },
             {
                 "label": "Facebook",
@@ -41,10 +46,10 @@
             },
             {
                 "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "elementId": ""
+                "altText": "Instagram",
+                "url": "https://www.instagram.com/ellieguner/?hl=en",
+                "icon": "instagram",
+                "elementId": "ig"
             }
         ],
         "styles": {
@@ -63,9 +68,9 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
+                "label": "About",
+                "url": "/about",
+                "altText": "about"
             },
             {
                 "type": "Link",
@@ -75,7 +80,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Eulogy",
                 "url": "/blog",
                 "altText": ""
             },
@@ -86,16 +91,7 @@
                 "altText": ""
             }
         ],
-        "contacts": {
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
-        },
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "copyrightText": "I will miss you every day of my life: Ellie Guner 1997-2022❤️👼🏻🏡\n\n",
         "styles": {
             "self": {
                 "width": "wide",

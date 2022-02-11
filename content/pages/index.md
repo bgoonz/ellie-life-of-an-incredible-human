@@ -3,11 +3,11 @@ title: Home
 layout: PageLayout
 colors: colors-a
 backgroundImage:
-  url: /images/bg1.jpg
+  url: /images/background-240d3ac2.gif
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
+  backgroundRepeat: repeat-y
+  opacity: 30
 sections:
   - elementId: ''
     colors: colors-f
@@ -17,7 +17,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         margin:
           - mt-0
           - mb-0
@@ -42,16 +42,21 @@ sections:
     type: HeroSection
   - colors: colors-f
     type: FeaturedProjectsSection
-    elementId: ''
+    elementId: memorys
     actions:
       - type: Link
-        label: See all projects
-        url: /projects
+        url: /memories
+        label: See All
+        altText: see all
+        elementId: see all
+        showIcon: true
+        icon: play
+        iconPosition: left
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
+    variant: variant-d
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
@@ -71,6 +76,9 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
+        borderWidth: 4
+        borderStyle: solid
+        borderColor: border-dark
       title:
         textAlign: left
       subtitle:
@@ -79,7 +87,7 @@ sections:
         justifyContent: flex-end
     subtitle: 'Memories:'
   - type: FeaturedPostsSection
-    elementId: ''
+    elementId: eulogy
     colors: colors-f
     variant: variant-d
     showFeaturedImage: false
@@ -189,4 +197,8 @@ sections:
         textAlign: left
       text:
         textAlign: left
+addTitleSuffix: true
+metaDescription: Ellie Guner
+metaTitle: memory
+socialImage: /images/66881054_3094379133907374_8699886776979816448_n-a3ad8b1e.jpg
 ---
