@@ -46,7 +46,7 @@ sections:
     actions:
       - type: Link
         url: /projects
-        label: C-
+        label: C-ALL
     showDate: false
     showDescription: true
     showFeaturedImage: true
