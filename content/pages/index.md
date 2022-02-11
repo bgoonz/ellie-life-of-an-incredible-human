@@ -96,6 +96,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: 'Memories:'
+    title: Memories
   - type: FeaturedPostsSection
     elementId: eulogy
     colors: colors-f
