@@ -75,5 +75,5 @@ topSections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
-metaTitle: in memmory of ellie
+metaTitle: in memory of ellie
 ---
