@@ -104,6 +104,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    elementId: work-n-school
   - type: DividerSection
     styles:
       self:
