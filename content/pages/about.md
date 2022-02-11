@@ -81,7 +81,7 @@ sections:
         url: /images/cantor.jpg
         altText: Logo five
         caption: Logo five
-    spacing: 52
+    spacing: 33
     columns: 5
     aspectRatio: auto
     showCaption: false
