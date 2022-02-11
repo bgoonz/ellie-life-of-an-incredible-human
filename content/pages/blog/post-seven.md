@@ -10,7 +10,7 @@ featuredImage:
   url: /images/20160730_174636.jpg
   altText: Post thumbnail image
 backgroundImage:
-  url: /images/66609474_3094467527231868_4999494872034443264_n-5d76e855.jpg
+  url: /images/clouds-61376271.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
