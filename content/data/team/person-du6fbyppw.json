@@ -1,0 +1,12 @@
+{
+    "firstName": "Nick",
+    "lastName": "Guner",
+    "role": "Father",
+    "bio": "![](/images/FB_IMG\\_1499893815015.jpg)\n",
+    "image": {
+        "url": "/images/20161210_162555.jpg",
+        "altText": "Person photo",
+        "elementId": "papa photo"
+    },
+    "type": "Person"
+}

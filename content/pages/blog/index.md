@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Blog
+title: Eulogy
 colors: colors-a
 backgroundImage:
   url: /images/wallpaper.gif
@@ -12,11 +12,11 @@ numOfPostsPerPage: 10
 postFeed:
   colors: colors-f
   showDate: true
-  showAuthor: false
+  showAuthor: true
   showExcerpt: true
   showFeaturedImage: true
   showReadMoreLink: true
-  variant: variant-d
+  variant: variant-b
   styles:
     self:
       width: narrow
