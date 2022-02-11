@@ -120,6 +120,7 @@ sections:
       actions:
         justifyContent: flex-end
     showAuthor: true
+    title: Eulogy(s)
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
