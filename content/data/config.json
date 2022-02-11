@@ -33,7 +33,8 @@
                 "type": "Social",
                 "altText": "GitHub",
                 "url": "https://github.com/stackbit-themes",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "label": "LinkedIn"
             },
             {
                 "label": "Facebook",
