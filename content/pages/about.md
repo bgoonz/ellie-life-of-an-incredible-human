@@ -78,7 +78,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/cantor.jpg
         altText: Logo five
         caption: Logo five
     spacing: 3
