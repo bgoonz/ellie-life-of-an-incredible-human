@@ -110,7 +110,7 @@ bottomSections:
         textAlign: left
 title: ' How Ellie Changed My Life'
 backgroundImage:
-  url: /images/bg2.jpg
+  url: /images/focus.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
