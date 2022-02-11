@@ -10,7 +10,8 @@
             {
                 "type": "Link",
                 "label": "Info",
-                "url": "/info"
+                "url": "/info",
+                "altText": "about"
             },
             {
                 "type": "Link",
