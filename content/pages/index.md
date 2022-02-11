@@ -6,7 +6,7 @@ backgroundImage:
   url: /images/background-240d3ac2.gif
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat-y
   opacity: 75
 sections:
   - elementId: ''
