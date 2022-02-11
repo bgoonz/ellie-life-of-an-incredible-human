@@ -19,7 +19,8 @@
                 "url": "/memories",
                 "altText": "memories",
                 "iconPosition": "left",
-                "icon": "playCircle"
+                "icon": "playCircle",
+                "elementId": "mem"
             },
             {
                 "type": "Link",
