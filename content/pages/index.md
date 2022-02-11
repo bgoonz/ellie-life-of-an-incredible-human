@@ -47,7 +47,7 @@ sections:
       - type: Link
         label: See all projects
         url: /projects
-    showDate: true
+    showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
@@ -77,7 +77,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects:'
+    subtitle: 'Memories:'
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
