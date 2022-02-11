@@ -90,7 +90,7 @@
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
         "styles": {
             "self": {
-                "width": "full",
+                "width": "wide",
                 "padding": [
                     "pt-16",
                     "pb-16",
