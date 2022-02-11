@@ -109,6 +109,7 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/20160730_195218.jpg
 ---
 # Eulogy For Ellie
 
