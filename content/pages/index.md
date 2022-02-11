@@ -82,7 +82,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Posts
+    subtitle: Eulogy(s)
     showFeaturedImage: false
     actions:
       - type: Link
