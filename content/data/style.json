@@ -46,8 +46,8 @@
     "light": "#ffffff",
     "onLight": "#050806",
     "dark": "#000000",
-    "onDark": "#FBFFF2",
-    "primary": "#5e9eee",
+    "onDark": "#d1c6c6",
+    "primary": "#8abfff",
     "onPrimary": "#fffffd",
     "secondary": "#2d0800",
     "onSecondary": "#050806",
@@ -61,9 +61,9 @@
         "verticalPadding": 15
     },
     "buttonSecondary": {
-        "weight": "medium",
-        "case": "none",
-        "letterSpacing": "normal",
+        "weight": "normal",
+        "case": "capitalize",
+        "letterSpacing": "wide",
         "horizontalPadding": 30,
         "verticalPadding": 30
     },
