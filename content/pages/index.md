@@ -89,6 +89,19 @@ sections:
         justifyContent: flex-end
     subtitle: 'Memories:'
     title: Memories
+  - title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+          - pl-0
+          - pr-0
+        justifyContent: center
+        borderWidth: 1
+    type: DividerSection
   - type: FeaturedPostsSection
     elementId: eulogy
     colors: colors-f
