@@ -9,7 +9,7 @@ backgroundImage:
   backgroundRepeat: repeat-y
   opacity: 30
 sections:
-  - elementId: ''
+  - elementId: title
     colors: colors-f
     backgroundSize: full
     title: In Memory of Ellie Guner
