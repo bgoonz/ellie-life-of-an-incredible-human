@@ -73,6 +73,7 @@ sections:
         justifyContent: center
         borderWidth: 4
         borderStyle: solid
+        borderColor: border-dark
       title:
         textAlign: left
       subtitle:
