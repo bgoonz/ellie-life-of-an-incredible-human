@@ -192,4 +192,5 @@ sections:
 addTitleSuffix: true
 metaDescription: Ellie Guner
 metaTitle: memory
+socialImage: /images/66581006_3094379343907353_2935893872355573760_n-baf99408.jpg
 ---
