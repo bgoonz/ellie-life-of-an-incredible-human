@@ -45,7 +45,7 @@ sections:
     elementId: memorys
     actions:
       - type: Link
-        url: /projects
+        url: /
         label: C-ALL
         altText: see all
     showDate: false
