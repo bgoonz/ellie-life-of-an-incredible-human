@@ -51,6 +51,7 @@ sections:
         elementId: see all
         showIcon: true
         icon: play
+        iconPosition: left
     showDate: false
     showDescription: true
     showFeaturedImage: true
