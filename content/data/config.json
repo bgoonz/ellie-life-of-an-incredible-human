@@ -34,7 +34,8 @@
                 "altText": "GitHub",
                 "url": "https://www.linkedin.com/in/elizabeth-g-5921b9168/",
                 "icon": "linkedin",
-                "label": "LinkedIn"
+                "label": "LinkedIn",
+                "elementId": "linkedIn"
             },
             {
                 "label": "Facebook",
