@@ -47,7 +47,7 @@ topSections:
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/61871_333202573453349_1705792927_n.jpg
         altText: Image four
         caption: Image four caption
     spacing: 16
