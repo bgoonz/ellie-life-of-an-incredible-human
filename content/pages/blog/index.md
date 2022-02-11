@@ -39,7 +39,7 @@ topSections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/7F250CA8-6B34-4317-9AA7-0B5337BEB2F4.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
