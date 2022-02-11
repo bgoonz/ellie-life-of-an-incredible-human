@@ -1,5 +1,5 @@
 ---
-layout: ProjectFeedLayout
+layout: ProjectLayout
 title: Memories
 colors: colors-a
 backgroundImage:
