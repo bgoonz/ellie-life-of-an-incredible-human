@@ -44,6 +44,15 @@ sections:
     type: FeaturedProjectsSection
     elementId: memorys
     actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
       - type: Link
         url: /memories
         label: See All
