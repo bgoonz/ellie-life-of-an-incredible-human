@@ -50,6 +50,7 @@ sections:
         altText: see all
         elementId: see all
         showIcon: true
+        icon: play
     showDate: false
     showDescription: true
     showFeaturedImage: true
