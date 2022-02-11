@@ -64,7 +64,7 @@ sections:
       - content/pages/projects/project-one.md
     styles:
       self:
-        height: screen
+        height: auto
         width: full
         margin:
           - mt-0
