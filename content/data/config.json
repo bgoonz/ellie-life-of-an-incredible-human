@@ -46,7 +46,7 @@
             {
                 "label": "Facebook",
                 "altText": "Instagram",
-                "url": "/",
+                "url": "https://www.instagram.com/ellieguner/?hl=en",
                 "icon": "instagram",
                 "elementId": "ig"
             }
