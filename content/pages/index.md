@@ -79,7 +79,7 @@ sections:
         justifyContent: flex-end
     subtitle: 'Memories:'
   - type: FeaturedPostsSection
-    elementId: ''
+    elementId: eulogy
     colors: colors-f
     variant: variant-d
     showFeaturedImage: false
