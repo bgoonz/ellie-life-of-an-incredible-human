@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
-  url: /images/20160730_174704.jpg
+  url: /images/20160730_174655.jpg
   altText: Post thumbnail image
 backgroundImage:
   url: /images/gallery-3.jpg
