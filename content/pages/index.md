@@ -49,6 +49,7 @@ sections:
         label: C-ALL
         altText: see all
         elementId: see all
+        showIcon: true
     showDate: false
     showDescription: true
     showFeaturedImage: true
