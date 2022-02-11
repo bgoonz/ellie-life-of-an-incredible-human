@@ -82,7 +82,6 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Eulogy(s)
     showFeaturedImage: false
     actions:
       - type: Link
