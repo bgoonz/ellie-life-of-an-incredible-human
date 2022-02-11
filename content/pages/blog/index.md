@@ -7,7 +7,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 56
+  opacity: 32
 numOfPostsPerPage: 10
 postFeed:
   colors: colors-f
