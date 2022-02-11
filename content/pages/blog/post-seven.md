@@ -1,5 +1,5 @@
 ---
-title: 'Bryan '
+title: Bryan (Brother)
 colors: colors-a
 layout: PostLayout
 date: '2022-02-11'
