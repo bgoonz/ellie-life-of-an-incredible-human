@@ -44,7 +44,7 @@ sections:
     type: FeaturedProjectsSection
     elementId: memorys
     actions:
-      - label: Learn more
+      - label: See All
         altText: ''
         url: /
         showIcon: false
