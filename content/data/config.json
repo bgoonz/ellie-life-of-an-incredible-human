@@ -16,7 +16,8 @@
             {
                 "type": "Link",
                 "label": "Projects",
-                "url": "/memories"
+                "url": "/memories",
+                "altText": "memories"
             },
             {
                 "type": "Link",
