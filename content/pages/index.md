@@ -45,7 +45,6 @@ sections:
     elementId: memorys
     actions:
       - type: Link
-        label: See all projects
         url: /projects
     showDate: false
     showDescription: true
