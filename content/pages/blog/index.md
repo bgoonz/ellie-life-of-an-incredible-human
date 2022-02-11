@@ -46,6 +46,7 @@ topSections:
         url: /images/friends.jpg
         altText: Image three
         caption: Image three caption
+        elementId: gallery
       - type: ImageBlock
         url: /images/61871_333202573453349_1705792927_n.jpg
         altText: Image four
