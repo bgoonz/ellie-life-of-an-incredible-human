@@ -75,4 +75,8 @@ topSections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
+metaTitle: in memory of Ellie
+metaDescription: eulogy
+addTitleSuffix: true
+socialImage: /images/20160423_174105.jpg
 ---
