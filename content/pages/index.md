@@ -45,7 +45,7 @@ sections:
     elementId: memorys
     actions:
       - label: See All
-        altText: ''
+        altText: view memories
         url: /
         showIcon: false
         icon: arrowRight
