@@ -190,4 +190,5 @@ sections:
       text:
         textAlign: left
 addTitleSuffix: true
+metaDescription: Ellie Guner
 ---
