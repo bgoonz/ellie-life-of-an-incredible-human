@@ -66,7 +66,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/raymond-james.jpg
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
