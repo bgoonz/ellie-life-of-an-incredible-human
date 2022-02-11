@@ -46,7 +46,7 @@ sections:
     actions:
       - type: Link
         url: /memories
-        label: C-ALL
+        label: See All
         altText: see all
         elementId: see all
         showIcon: true
