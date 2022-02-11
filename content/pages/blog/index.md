@@ -78,4 +78,5 @@ topSections:
 metaTitle: in memory of Ellie
 metaDescription: eulogy
 addTitleSuffix: true
+socialImage: /images/20190519_201501.jpg
 ---
