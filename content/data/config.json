@@ -69,7 +69,7 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "/info",
+                "url": "/about",
                 "altText": "about"
             },
             {
