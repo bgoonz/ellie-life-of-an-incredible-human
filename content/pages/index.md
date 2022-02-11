@@ -76,7 +76,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderWidth: 4
+        borderWidth: 5
         borderStyle: solid
         borderColor: border-dark
       title:
