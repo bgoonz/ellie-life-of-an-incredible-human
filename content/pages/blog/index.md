@@ -76,4 +76,5 @@ topSections:
         textAlign: center
     type: MediaGallerySection
 metaTitle: in memory of Ellie
+metaDescription: eulogy
 ---
