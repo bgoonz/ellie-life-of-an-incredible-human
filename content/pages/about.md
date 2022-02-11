@@ -19,7 +19,7 @@ sections:
       cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/66718308_3094405763904711_6298320014869004288_n-dda3e855.jpg
       altText: Hero image
     styles:
       self:
@@ -58,32 +58,32 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: MediaGallerySection
-    colors: colors-f
+    colors: colors-a
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/upenn.jpg
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/raymond-james.jpg
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/bergen.jpg
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/wipi.jpg
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/cantor.jpg
         altText: Logo five
         caption: Logo five
-    spacing: 3
+    spacing: 33
     columns: 5
-    aspectRatio: auto
+    aspectRatio: '1:1'
     showCaption: false
     enableHover: false
     styles:
@@ -104,6 +104,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    elementId: work-n-school
   - type: DividerSection
     styles:
       self:
@@ -116,79 +117,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find me here:'
   - type: DividerSection
     styles:
       self:

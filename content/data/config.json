@@ -68,9 +68,9 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
+                "label": "About",
+                "url": "/about",
+                "altText": "about"
             },
             {
                 "type": "Link",
@@ -80,7 +80,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Eulogy",
                 "url": "/blog",
                 "altText": ""
             },
@@ -91,16 +91,7 @@
                 "altText": ""
             }
         ],
-        "contacts": {
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
-        },
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "copyrightText": "I will miss you every day of my life: Ellie Guner 1997-2022❤️👼🏻🏡\n\n",
         "styles": {
             "self": {
                 "width": "wide",
