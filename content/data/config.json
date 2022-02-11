@@ -18,7 +18,8 @@
                 "label": "Memories",
                 "url": "/memories",
                 "altText": "memories",
-                "iconPosition": "left"
+                "iconPosition": "left",
+                "icon": "playCircle"
             },
             {
                 "type": "Link",
