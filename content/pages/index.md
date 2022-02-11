@@ -42,7 +42,7 @@ sections:
     type: HeroSection
   - colors: colors-f
     type: FeaturedProjectsSection
-    elementId: ''
+    elementId: memorys
     actions:
       - type: Link
         label: See all projects
