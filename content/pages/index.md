@@ -47,6 +47,7 @@ sections:
       - type: Link
         url: /projects
         label: C-ALL
+        altText: see all
     showDate: false
     showDescription: true
     showFeaturedImage: true
