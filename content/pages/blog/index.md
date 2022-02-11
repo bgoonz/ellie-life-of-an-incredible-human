@@ -35,19 +35,20 @@ topSections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/20161123_220113.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/7F250CA8-6B34-4317-9AA7-0B5337BEB2F4.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/friends.jpg
         altText: Image three
         caption: Image three caption
+        elementId: gallery
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/61871_333202573453349_1705792927_n.jpg
         altText: Image four
         caption: Image four caption
     spacing: 16
