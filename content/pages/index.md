@@ -51,7 +51,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-        elementId: ''
+        elementId: see all
         type: Button
       - type: Link
         url: /memories
