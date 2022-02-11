@@ -6,7 +6,8 @@
     "image": {
         "url": "/images/20161210_162555.jpg",
         "altText": "Person photo",
-        "elementId": "papa photo"
+        "elementId": "papa photo",
+        "caption": "princess"
     },
     "type": "Person"
 }
