@@ -77,4 +77,5 @@ topSections:
     type: MediaGallerySection
 metaTitle: in memory of Ellie
 metaDescription: eulogy
+addTitleSuffix: true
 ---
