@@ -37,6 +37,13 @@
                 "label": "GitHub",
                 "url": "https://github.com/stackbit-themes",
                 "icon": "github"
+            },
+            {
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "elementId": ""
             }
         ],
         "styles": {
