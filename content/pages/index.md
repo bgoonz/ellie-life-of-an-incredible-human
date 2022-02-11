@@ -53,14 +53,6 @@ sections:
         style: secondary
         elementId: see all
         type: Button
-      - type: Link
-        url: /memories
-        label: See All
-        altText: see all
-        elementId: see all
-        showIcon: true
-        icon: play
-        iconPosition: left
     showDate: false
     showDescription: true
     showFeaturedImage: true
