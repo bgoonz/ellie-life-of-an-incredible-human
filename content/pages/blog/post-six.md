@@ -1,5 +1,5 @@
 ---
-title: Mother (Kathey)
+title: Kathey (Mother)
 colors: colors-a
 layout: PostLayout
 date: '2022-01-03'
