@@ -42,16 +42,21 @@ sections:
     type: HeroSection
   - colors: colors-f
     type: FeaturedProjectsSection
-    elementId: ''
+    elementId: memorys
     actions:
       - type: Link
-        label: See all projects
-        url: /projects
+        url: /memories
+        label: See All
+        altText: see all
+        elementId: see all
+        showIcon: true
+        icon: play
+        iconPosition: left
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
+    variant: variant-d
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
