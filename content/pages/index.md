@@ -65,7 +65,7 @@ sections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: full
         margin:
           - mt-0
           - mb-0
@@ -77,7 +77,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderWidth: 5
+        borderWidth: 3
         borderStyle: double
         borderColor: border-dark
         borderRadius: medium
@@ -87,7 +87,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Memories:'
     title: Memories
   - colors: colors-f
     elementId: ''
