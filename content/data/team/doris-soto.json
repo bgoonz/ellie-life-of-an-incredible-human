@@ -5,7 +5,8 @@
     "image": {
         "type": "ImageBlock",
         "url": "/images/profile-f158291e.png",
-        "altText": "bgoonz photo"
+        "altText": "bgoonz photo",
+        "elementId": "bgoonz"
     },
     "role": "Brother"
 }
