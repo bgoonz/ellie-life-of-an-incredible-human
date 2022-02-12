@@ -50,7 +50,7 @@ sections:
         showIcon: true
         icon: playCircle
         iconPosition: left
-        style: primary
+        style: secondary
         elementId: see all
         type: Button
     showDate: true
