@@ -47,7 +47,7 @@ sections:
       - label: See All
         altText: view memories
         url: /memories
-        showIcon: false
+        showIcon: true
         icon: playCircle
         iconPosition: right
         style: secondary
