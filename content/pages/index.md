@@ -94,7 +94,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/friends-ae75ad82.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
