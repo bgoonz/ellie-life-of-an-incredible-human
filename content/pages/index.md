@@ -49,7 +49,7 @@ sections:
         url: /memories
         showIcon: true
         icon: playCircle
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: see all
         type: Button
