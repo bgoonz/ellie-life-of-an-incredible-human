@@ -139,7 +139,7 @@ sections:
     title: Gallery
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/20161123_195736.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
