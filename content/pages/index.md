@@ -48,7 +48,7 @@ sections:
         altText: view memories
         url: /memories
         showIcon: false
-        icon: reddit
+        icon: playCircle
         iconPosition: right
         style: secondary
         elementId: see all
