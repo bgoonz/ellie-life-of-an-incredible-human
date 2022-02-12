@@ -137,7 +137,6 @@ sections:
   - colors: colors-f
     elementId: ''
     title: Gallery
-    subtitle: This is the subtitle
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
