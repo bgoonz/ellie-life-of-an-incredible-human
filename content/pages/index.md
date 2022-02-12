@@ -195,7 +195,7 @@ sections:
   - type: FeaturedPostsSection
     elementId: eulogy
     colors: colors-f
-    variant: variant-d
+    variant: variant-c
     showFeaturedImage: false
     actions:
       - type: Link
