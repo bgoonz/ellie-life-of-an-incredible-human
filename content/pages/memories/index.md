@@ -30,7 +30,7 @@ styles:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: "Memories"
+    title: 'Memories'
     colors: colors-f
     form:
       type: FormBlock

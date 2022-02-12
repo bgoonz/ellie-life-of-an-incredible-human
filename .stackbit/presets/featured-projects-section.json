@@ -17,9 +17,7 @@
                         "url": "/projects"
                     }
                 ],
-                "projects": [
-                    "content/pages/projects/project-one.md",
-                    "content/pages/projects/project-two.md"],
+                "projects": ["content/pages/projects/project-one.md", "content/pages/projects/project-two.md"],
                 "showDate": false,
                 "showAuthor": false,
                 "showDescription": true,
@@ -61,11 +59,7 @@
                         "url": "/projects"
                     }
                 ],
-                "projects": [
-                    "content/pages/projects/project-one.md",
-                    "content/pages/projects/project-two.md",
-                    "content/pages/projects/project-three.md"
-                    ],
+                "projects": ["content/pages/projects/project-one.md", "content/pages/projects/project-two.md", "content/pages/projects/project-three.md"],
                 "showDate": false,
                 "showAuthor": false,
                 "showDescription": true,
@@ -107,11 +101,7 @@
                         "url": "/projects"
                     }
                 ],
-                "projects": [
-                    "content/pages/projects/project-one.md",
-                    "content/pages/projects/project-two.md",
-                    "content/pages/projects/project-three.md"
-                    ],
+                "projects": ["content/pages/projects/project-one.md", "content/pages/projects/project-two.md", "content/pages/projects/project-three.md"],
                 "showDate": false,
                 "showAuthor": false,
                 "showDescription": true,

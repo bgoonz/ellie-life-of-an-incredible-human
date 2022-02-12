@@ -111,19 +111,21 @@ bottomSections:
         textAlign: left
 socialImage: /images/20160730_195218.jpg
 ---
+
 # Eulogy For Ellie
 
-## _A Celebration Of Life & A Compelling Reason To Move Forward
-_
+## \_A Celebration Of Life & A Compelling Reason To Move Forward
+
+\_
 As I write this, I am reminded that there's tremendous beauty in pain, for which the absence of, would render all of life's joys void of context and meaning.
 
-From now until my final breath you will be the context that gives meaning to the joys I experience and urgency to the relationships I hold. I love you 3000*infinity*An Inaccessible Cardinal * 55
+From now until my final breath you will be the context that gives meaning to the joys I experience and urgency to the relationships I hold. I love you 3000*infinity*An Inaccessible Cardinal \* 55
 
 I'd like to start by sharing a quote that I think captures the spirit of how Ellie would like to be remembered.
 
-*So many tangles in life are ultimately hopeless, that we have no more appropriate sword with which to face them other than laughter. ---*[*Gordon W. Allport*](https://www.brainyquote.com/authors/gordon-w-allport-quotes)
+_So many tangles in life are ultimately hopeless, that we have no more appropriate sword with which to face them other than laughter. ---_[_Gordon W. Allport_](https://www.brainyquote.com/authors/gordon-w-allport-quotes)
 
-***Dearest Ellie,***
+**_Dearest Ellie,_**
 
 I thought you might like to know that as I write this, I am sharing my embarrassingly musky twin sized mattress with Justin and Nia, it is on the floor now; this allowed us to achieve a sort of equilibrium of dangled limbs where we both fit without Nia insisting either of us be relegated to the fetal position in order to accommodate her preference for the center of the mattress.
 
@@ -171,7 +173,7 @@ Live and love with reckless abandon, even if your family would prefer you didn't
 
 Adopt a rescue pup, not only for Ellie but also to save a little piece of your inner self that was slowly dying in the adult world
 
- Allow the lines between friends and family to blur... I am grateful for Nia, Justin and all the support of my friends and family, but the most surprising aftermath of Ellie's passing to me was seeing the extended family she had built of friends who's love and dedication are on display not only today but I suspect for as long as they live.
+Allow the lines between friends and family to blur... I am grateful for Nia, Justin and all the support of my friends and family, but the most surprising aftermath of Ellie's passing to me was seeing the extended family she had built of friends who's love and dedication are on display not only today but I suspect for as long as they live.
 
 If that doesn't constitute family, than I think family is a meaningless word.
 

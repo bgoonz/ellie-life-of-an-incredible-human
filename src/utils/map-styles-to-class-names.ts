@@ -45,14 +45,14 @@ const TAILWIND_MAP = {
         double: 'border-double'
     },
     boxShadow: {
-        'none': 'shadow-none',
+        none: 'shadow-none',
         'x-small': 'shadow-sm',
         small: 'shadow',
         medium: 'shadow-md',
         large: 'shadow-lg',
         'x-large': 'shadow-xl',
         'xx-large': 'shadow-2xl',
-        'inner': 'shadow-inner'
+        inner: 'shadow-inner'
     },
     fontSize: {
         'x-small': 'text-xs',

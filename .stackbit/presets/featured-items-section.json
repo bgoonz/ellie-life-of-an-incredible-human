@@ -92,7 +92,7 @@
                 }
             }
         },
-       {
+        {
             "label": "Featured items secondary - 2 columns",
             "thumbnail": "images/feat-items-secondary-2-col.png",
             "data": {

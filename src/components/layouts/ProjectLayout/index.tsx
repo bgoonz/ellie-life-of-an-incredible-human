@@ -50,7 +50,11 @@ export default function ProjectLayout(props) {
                             </div>
                         )}
                         {page.markdown_content && (
-                            <Markdown options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }} className="sb-markdown max-w-screen-md mx-auto" data-sb-field-path="markdown_content">
+                            <Markdown
+                                options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }}
+                                className="sb-markdown max-w-screen-md mx-auto"
+                                data-sb-field-path="markdown_content"
+                            >
                                 {page.markdown_content}
                             </Markdown>
                         )}

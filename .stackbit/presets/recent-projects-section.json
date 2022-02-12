@@ -42,7 +42,7 @@
                 }
             }
         },
-                {
+        {
             "label": "Recent projects secondary - 3 columns",
             "thumbnail": "images/projects-secondary-3-col.png",
             "data": {

@@ -21,14 +21,14 @@ export default function DefaultBaseLayout(props) {
             {page?.backgroundImage && <BackgroundImage {...page?.backgroundImage} />}
             <div className="sb-base sb-default-base-layout relative">
                 <Head>
-                <title>{title}</title>
+                    <title>{title}</title>
                     {metaDescription && <meta name="description" content={metaDescription} />}
                     {metaTags.map((metaTag) => {
-                      if (metaTag.format === 'property' ) {
-                        // OpenGraph meta tags (og:*) should be have the format <meta property="og:…" content="…">
-                        return  <meta key={metaTag.property} property={metaTag.property} content={metaTag.content} />
-                      }
-                      return  <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />
+                        if (metaTag.format === 'property') {
+                            // OpenGraph meta tags (og:*) should be have the format <meta property="og:…" content="…">
+                            return <meta key={metaTag.property} property={metaTag.property} content={metaTag.content} />;
+                        }
+                        return <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />;
                     })}
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     {site.favicon && <link rel="icon" href={site.favicon} />}
