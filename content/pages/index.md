@@ -48,7 +48,7 @@ sections:
         altText: view memories
         url: /memories
         showIcon: false
-        icon: twitter
+        icon: reddit
         iconPosition: right
         style: secondary
         elementId: see all
