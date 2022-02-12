@@ -53,7 +53,7 @@ sections:
         style: secondary
         elementId: see all
         type: Button
-    showDate: false
+    showDate: true
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
