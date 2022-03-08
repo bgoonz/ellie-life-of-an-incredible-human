@@ -13,7 +13,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: In Memory of Ellie Guner
-    subtitle: Summary
+    subtitle: 1997-2022
     styles:
       self:
         height: auto
