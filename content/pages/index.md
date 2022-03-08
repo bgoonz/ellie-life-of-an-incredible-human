@@ -179,6 +179,93 @@ sections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
+  - colors: colors-f
+    elementId: ''
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/106600482_3634004779946974_251702395566757051_n.jpg
+        altText: Image one
+        caption: Image one caption
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        type: ImageBlock
+      - url: /images/61871_333202573453349_1705792927_n.jpg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        type: ImageBlock
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        type: ImageBlock
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        type: ImageBlock
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        type: ImageBlock
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        type: ImageBlock
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/gallery-2.jpg
+        altText: Image two
+        caption: Image two caption
+      - type: ImageBlock
+        url: /images/gallery-3.jpg
+        altText: Image three
+        caption: Image three caption
+      - type: ImageBlock
+        url: /images/gallery-4.jpg
+        altText: Image four
+        caption: Image four caption
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    styles:
+      self:
+        height: auto
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
   - title: Divider
     elementId: ''
     styles:
